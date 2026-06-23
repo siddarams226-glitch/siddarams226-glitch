@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Full+Stack+Systems;Designing+Efficient+Database+Architectures;Java+%7C+Spring+Boot+%7C+ReactJS+%7C+SQL;Turning+Logic+into+Human-Centric+Solutions)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=a78bfa&center=true&vCenter=true&multiline=false&width=700&lines=Building+Scalable+Full+Stack+Systems;Designing+Efficient+Database+Architectures;Java+%7C+Spring+Boot+%7C+ReactJS+%7C+SQL;Turning+Logic+into+Human-Centric+Solutions" alt="Typing SVG" /></a>
 
 </div>
 
@@ -14,9 +14,9 @@
 
 <div align="center">
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-7c3aed?style=for-the-badge&logo=academia&logoColor=white)
-![CGPA 7.54](https://img.shields.io/badge/CGPA-7.54%2F10-6366f1?style=for-the-badge&logo=bookstack&logoColor=white)
-![Bengaluru](https://img.shields.io/badge/Bengaluru-Karnataka%2C%20India-4f46e5?style=for-the-badge&logo=google-maps&logoColor=white)
+<img src="https://img.shields.io/badge/B.Tech-CSE-7c3aed?style=for-the-badge&logo=academia&logoColor=white" alt="B.Tech CSE" />
+<img src="https://img.shields.io/badge/CGPA-7.54%2F10-6366f1?style=for-the-badge&logo=bookstack&logoColor=white" alt="CGPA 7.54" />
+<img src="https://img.shields.io/badge/Bengaluru-Karnataka%2C%20India-4f46e5?style=for-the-badge&logo=google-maps&logoColor=white" alt="Bengaluru" />
 
 </div>
 
@@ -24,10 +24,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://siddaram.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddaram-bn-b914a727a)
-[![Email](https://img.shields.io/badge/Email-Contact-4f46e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddarams226@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-3730a3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddarams226-glitch)
+<a href="https://siddaram.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-View%20Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/siddaram-bn-b914a727a"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:siddarams226@email.com"><img src="https://img.shields.io/badge/Email-Contact-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/siddarams226-glitch"><img src="https://img.shields.io/badge/GitHub-Follow-3730a3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=siddarams226-glitch&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/siddarams226-glitch?style=for-the-badge&color=6366f1&label=FOLLOWERS&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/siddarams226-glitch?style=for-the-badge&color=4f46e5&label=STARS&logo=github&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=siddarams226-glitch&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/siddarams226-glitch?style=for-the-badge&color=6366f1&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
+<img src="https://img.shields.io/github/stars/siddarams226-glitch?style=for-the-badge&color=4f46e5&label=STARS&logo=github&logoColor=white" alt="Stars" />
 
 </div>
 
